@@ -4,7 +4,7 @@ My initials are L.C., which stands for:
 - Loves Challenges! 👌
 - Looking to Collaborate! 🙌
 - Lean Cuisine! 🥑
-- Learning C++ (also Python and Go)! 💻
+- (one day I want to) Learn C++ (also Python and Go)! 💻
 - LeetCode! 🔢
 - Let's Connect! 📫
 <a href="https://www.linkedin.com/in/sirleoc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
